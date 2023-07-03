@@ -1,0 +1,24 @@
+-series GW2AR
+-device GW2AR-18
+-device_version C
+-package QFN88
+-part_number GW2AR-LV18QN88C8/I7
+
+
+-mod_name Gowin_DPB_DSP32_instrmem
+-file_name gowin_dpb_DSP32_instrmem
+-path /home/lpnm/Documents/Electronica/Sipeed/Tang Nano 20K/Next186LM/Next186Simple/Next186Simple/src/gowin_dpb/
+-type RAM_DP
+-file_type vlg
+-bram_b true
+-dev_type GW2AR-18C
+-depth_0 2048
+-depth_1 2048
+-width_0 16
+-width_1 16
+-read_mode_0 bypass
+-read_mode_1 bypass
+-write_mode_0 normal
+-write_mode_1 normal
+-speed false
+-reset_mode sync
